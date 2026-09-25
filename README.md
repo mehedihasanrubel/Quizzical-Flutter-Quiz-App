@@ -7,10 +7,13 @@ A modern, responsive quiz application built with Flutter and Dart, featuring cat
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/welcome.png" width="210" alt="Welcome Screen"/>
-  <img src="screenshots/categories.png" width="210" alt="Category Screen"/>
-  <img src="screenshots/quiz.png" width="210" alt="Quiz Screen"/>
-  <img src="screenshots/results.png" width="210" alt="Results Screen"/>
+  <img src="WhatsApp Image 2026-09-25 at 8.10.06 PM.jpeg" width="210" alt="Welcome Screen"/>
+  <img src="WhatsApp Image 2026-09-25 at 8.10.06 PM (1).jpeg" width="210" alt="Category Screen"/>
+  <img src="WhatsApp Image 2026-09-25 at 8.10.06 PM (2).jpeg" width="210" alt="Config Screen"/>
+  <img src="WhatsApp Image 2026-09-25 at 8.10.06 PM (3).jpeg" width="210" alt="Results Screen"/>
+</p>
+<p align="center">
+  <sub><b>Welcome Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Category Selection</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Quiz Configuration</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Quiz Results</b></sub>
 </p>
 
 ---
