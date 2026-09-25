@@ -74,3 +74,33 @@ lib/
 │   ├── simple_top_bar.dart
 │   └── error_retry.dart
 └── main.dart
+```
+
+---
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+
+git clone https://github.com/mehedihasanrubel/Quizzical-Flutter-Quiz-App.git](https://github.com/mehedihasanrubel/Quizzical-Flutter-Quiz-App.git
+cd Quizzical-Flutter-Quiz-App
+flutter pub get
+flutter run
+```
+
+> Firebase configuration is required to run the project locally.
+
+---
+
+## 👨‍💻 Author
+
+**Mehedi Hasan Rubel**
+Computer Science & Engineering
+University of Barishal
+
+🔗 **[GitHub Profile](https://github.com/mehedihasanrubel)**
+
+---
+
+⭐ If you find this project interesting, consider giving it a star!
