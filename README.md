@@ -83,7 +83,7 @@ lib/
 
 ```bash
 
-git clone https://github.com/mehedihasanrubel/Quizzical-Flutter-Quiz-App.git](https://github.com/mehedihasanrubel/Quizzical-Flutter-Quiz-App.git
+git clone https://github.com/mehedihasanrubel/Quizzical-Flutter-Quiz-App.git
 cd Quizzical-Flutter-Quiz-App
 flutter pub get
 flutter run
