@@ -89,7 +89,7 @@ flutter pub get
 flutter run
 ```
 
-> Firebase configuration is required to run the project locally.
+> > Internet connection is required to fetch trivia questions from OpenTDB API.
 
 ---
 
