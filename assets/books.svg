@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F2F7F6"/></linearGradient></defs>
+<rect width="420" height="300" rx="28" fill="url(#g)"/><path d="M135 92h104a14 14 0 0 1 14 14v76H149a14 14 0 0 1-14-14z" fill="#5ACB8B"/><path d="M157 110h79v13h-79zm0 25h66v13h-66z" fill="#fff"/><path d="M155 184h102v21H155z" fill="#EF6A6A"/><path d="M143 205h114" stroke="#303038" stroke-width="6" stroke-linecap="round"/>
+<text x="210" y="270" text-anchor="middle" font-family="Arial" font-weight="700" font-size="19" fill="#303038">Books</text>
+</svg>

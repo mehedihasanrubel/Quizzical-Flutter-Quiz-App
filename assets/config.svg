@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 250">
+<rect x="24" y="26" width="372" height="198" rx="28" fill="#EAF7F4"/>
+<rect x="90" y="64" width="240" height="116" rx="18" fill="#fff" stroke="#D9E5E3" stroke-width="4"/>
+<circle cx="140" cy="122" r="31" fill="#FFD45B"/><path d="M140 101v42m-21-21h42" stroke="#00695C" stroke-width="8" stroke-linecap="round"/>
+<rect x="190" y="94" width="108" height="12" rx="6" fill="#C7D5D2"/>
+<rect x="190" y="119" width="82" height="12" rx="6" fill="#2D6BFF"/>
+<rect x="190" y="144" width="108" height="12" rx="6" fill="#C7D5D2"/>
+<text x="210" y="45" text-anchor="middle" font-family="Arial" font-weight="700" font-size="18" fill="#303038">QUIZ CONFIGURATION</text>
+</svg>

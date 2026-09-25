@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 360">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF3B0"/><stop offset="1" stop-color="#FFD95A"/></linearGradient>
+ <linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A65AE8"/><stop offset="1" stop-color="#6D35C8"/></linearGradient>
+</defs>
+<circle cx="210" cy="180" r="108" fill="url(#bg)"/>
+<circle cx="92" cy="96" r="18" fill="#FF6B8A"/><circle cx="334" cy="112" r="13" fill="#3EC5D8"/>
+<circle cx="72" cy="250" r="16" fill="#FFB52E"/><circle cx="354" cy="270" r="18" fill="#FF5D45"/>
+<path d="M113 150c18-34 64-52 102-37 42-16 83 17 87 58 4 42-23 74-64 79-45 5-91-12-112-43-15-21-22-38-13-57z" fill="url(#p)"/>
+<circle cx="190" cy="167" r="48" fill="#F8B4B9"/>
+<path d="M150 144c8-45 83-63 104-9-19-11-33-13-49-4-19-13-36 3-55 13z" fill="#7134B5"/>
+<circle cx="174" cy="172" r="5" fill="#303038"/><circle cx="208" cy="172" r="5" fill="#303038"/>
+<path d="M183 195c10 8 20 8 29 0" fill="none" stroke="#303038" stroke-width="4" stroke-linecap="round"/>
+<path d="M282 164c26-21 53-11 56 13 2 20-15 35-33 27-13-6-16-25-23-40z" fill="#FFF"/>
+<path d="M286 161l17-18" stroke="#FF3E5D" stroke-width="7" stroke-linecap="round"/>
+<path d="M303 143l-9 25" stroke="#FF3E5D" stroke-width="7" stroke-linecap="round"/>
+<path d="M119 112l-14-20m32 9-3-25m-28 73-25 3" stroke="#8B48D8" stroke-width="5" stroke-linecap="round"/>
+<text x="210" y="335" text-anchor="middle" font-family="Arial" font-weight="700" font-size="17" fill="#303038">QUIZ • THINK • WIN</text>
+</svg>

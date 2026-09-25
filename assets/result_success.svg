@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300">
+<circle cx="210" cy="132" r="77" fill="#E9F9EF"/>
+<path d="M170 116l28 28 55-61" fill="none" stroke="#2BAF69" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M105 73l12 24m198-24-12 24M92 157h28m208 0h-28M133 52l14 20m154-20-14 20" stroke="#FFBF3E" stroke-width="8" stroke-linecap="round"/>
+<text x="210" y="258" text-anchor="middle" font-family="Arial" font-weight="700" font-size="20" fill="#303038">GREAT JOB!</text>
+</svg>
