@@ -89,7 +89,7 @@ flutter pub get
 flutter run
 ```
 
-> > Internet connection is required to fetch trivia questions from OpenTDB API.
+>  Internet connection is required to fetch trivia questions from OpenTDB API.
 
 ---
 
